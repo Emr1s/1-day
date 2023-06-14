@@ -1,3 +1,5 @@
+![image](https://github.com/Emr1s/1-day/assets/33460622/2a37f4ec-a226-4782-91e9-e3a6a3fd6a2f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
